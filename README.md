@@ -11,11 +11,6 @@ A simple command-line Task Manager built with TypeScript and Node.js. This appli
 - Filter and show completed tasks
 - Interactive menu system
 
-## Prerequisites
-
-- Node.js (version 18 or higher recommended)
-- npm (comes with Node.js)
-
 ## Installation
 
 1. Clone the repository:
