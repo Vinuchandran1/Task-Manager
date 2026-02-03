@@ -1,16 +1,3 @@
-# Task Manager
-
-A simple command-line Task Manager built with TypeScript and Node.js. This application allows users to interactively manage tasks through a menu-driven interface.
-
-## Features
-
-- Add new tasks with unique IDs
-- List all tasks with ID, name, and status
-- Mark tasks as completed by ID
-- Filter and show pending tasks
-- Filter and show completed tasks
-- Interactive menu system
-
 ## Installation
 
 1. Clone the repository:
